@@ -1,0 +1,2 @@
+# auto-slider
+Automatic Slider
