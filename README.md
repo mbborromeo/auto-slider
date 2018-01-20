@@ -1,2 +1,2 @@
 # auto-slider
-Automatic Slider
+Automatic Slider - jQuery
